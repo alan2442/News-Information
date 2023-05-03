@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Information</title>
-    <link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="../css/style1.css">
 </head>
-<body id="" class="home">
+<body id="duas-colunas" class="home">
     
     <div id="container"><!-- Início Container -->
 
@@ -54,88 +54,54 @@
 
             <div id="primario"> <!-- Início Conteudo Primário-->
                 
-                <div class="caixa"> <!-- Início Caixa Destaque-->
+                <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Destaque</h2>
-                    <div class="caixa-conteudo destaque">
-                        <h3>Nova legislação</h3>
-                        <img class="imagem-principal" src="imagens/mundo.jpg" alt="" width="100%">
-                        <p>
-                        PL das Fake News deve ser votado nesta terça-feira, 2; entenda o que pode mudar
-                        </p>
-                        <a href="pagdestaque/nova-legislacao.php">Leia mais!</a>
+                    <h2>Nova Legislação</h2>
+                    <img class="imagem-principal" src="../imagens/mundo.jpg" alt="">
+                    <p>
+                        Deve ser analisado e votado pelos deputados federais ainda
+                        nesta terça-feira, 2, o PL das Fake News (PL 2630). 
+                        O deputado Orlando Silva, relator do projeto, entregou o relatório
+                        na tarde da última quinta-feira, 27.
+                    </p>
 
-                    </div>
+                    <p>
+                        Uma das principais mudanças que o texto apresentado por Orlando Silva 
+                        trouxe foi a retirada de um artigo que previa a criação de uma entidade autônoma 
+                        para fiscalizar o cumprimento das novas regras.
+                    </p>
 
+                    <p>
+                    Apesar de a ideia inicial ser a criação de um órgão autônomo,
+                     a proposta não era bem recebida por parlamentares da direita,
+                      que diziam temer algum tipo de influência do atual governo na regulação 
+                      sobre fake news.
+                    </p>
 
-                    <h2>Brasil</h2>
-                    <div class="caixa-conteudo pensao-especial"> <!-- Início Caixa pensão especial-->
-                        <h3>Pensão Especial</h3>
-                        <img class="imagem-principal" src="imagens/logotipo.jpg" alt="" width="100%" height="150px">
-                        <p>
-                            Câmara aprova pensão especial para filhos de vítimas de feminicídio
-                        </p>
-                        <a href="pagdestaque/pensao-especial.php">Leia mais!</a>
+                    <p>
+                    a liberdade religiosa não será afetada pelo projeto. De acordo com esse artigo,
+                     a aplicação da lei deverá observar “o livre exercício da expressão e dos cultos 
+                     religiosos, seja de forma presencial ou remota, e a exposição plena dos seus 
+                     dogmas e livros sagrados”.
+                    </p>
 
-                    </div> <!-- Fim caixa pensão especial-->
+                    <p>
+                    A mudança foi feita após pressão da bancada Evangélica, que alegou que o compartilhamento 
+                    de versículos bíblicos nas redes sociais poderia ser enquadrado como crime.
+                    </p>
 
+                    <p>
+                    Conhecido como PL das Fake News, o projeto de lei busca estabelecer normas de transparência para
+                     plataformas de buscas e redes sociais, criando medidas de combate à divulgação de conteúdos falsos. 
+                     A proposta visa criar a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet. Leia a
+                      íntegra do relatório.
+                    </p>
 
-                    <h2>Mundo</h2>
-                    <div class="caixa-conteudo">
+                </div> <!-- Fim caixa Nova Legislação -->
 
-                        <ul id="lista-noticias">
-
-                            <li> <!-- Noticia 01 -->
-                                <a href="pagdestaque/noticia1.php">
-                                    <img src="imagens/tecnologia.jpg" alt="">
-                                    <h3>Dia do trabalho</h3>
-                                    <p>
-                                       brasileiros estão insatisfeitos com salário e jornada profissional
-                                    </p>
-                                </a>
-                            </li>
-
-                            <li> <!-- Noticia 02 -->
-                                <a href="">
-                                    <img src="" alt="">
-                                    <h3></h3>
-                                    <p></p>
-                                </a>
-                            </li>
-
-                            <li> <!-- Noticia 03 -->
-                                <a href="">
-                                    <img src="" alt="">
-                                    <h3></h3>
-                                    <p></p>
-                                </a>
-                            </li>
-
-                            <li> <!-- Noticia 04 -->
-                                <a href="">
-                                    <img src="" alt="">
-                                    <h3></h3>
-                                    <p></p>
-                                </a>
-                            </li>
-
-                        </ul>
-
-                    </div>
-
-                </div> <!-- Fim caixa Destaque-->
-
-
-
-   
-
-                
 
             </div> <!-- Fim Conteudo Primário-->
 
-            <div id="secundario"> <!-- Início Conteudo Secundario-->
-                Conteudo Secundario
-            </div> <!-- Fim Conteudo Secundario-->
 
             <div id="lateral"> <!-- Início Barra lateral-->
 
