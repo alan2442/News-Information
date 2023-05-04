@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Information</title>
-    <link rel="stylesheet" href="../css/style1.css">
+    <link rel="stylesheet" href="../css/style2.css">
 </head>
 <body id="duas-colunas" class="home">
     
@@ -58,6 +58,8 @@
 
                     <h2>Pensão Especial</h2>
                     <img class="imagem-principal" src="../imagens/pensao.jpg" alt="">
+
+                    <div class="texto">
                     <p>
                     A Câmara dos Deputados aprovou, hoje, 9, o projeto de lei nº 976/22 que 
                     prevê o pagamento de pensão especial aos filhos e a outros dependentes menores 
@@ -90,6 +92,8 @@
                     Segundo o relator da proposta, o impacto orçamentário e financeiro foi estimado em R$ 10,52 milhões neste ano, R$ 11,15 milhões em 2024 e R$ 11,82 milhões em 
                     2025. O texto segue agora para análise do Senado Federal.
                     </p>
+
+                    </div>
 
                 </div> <!-- Fim caixa Nova Legislação -->
 
@@ -142,6 +146,14 @@
         </div> <!-- Fim Conteudo-->
 
     </div> <!-- FIM Container -->
+
+    <div id="container-rodape" style="clear: both;"><!-- Inicio Rodapé -->
+
+        <div id="rodape">
+             &copy; copyright 2000-2023 News Information
+        </div>
+
+    </div><!-- FIM Rodapé -->
 
 </body>
 </html>

@@ -56,33 +56,58 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Dia do trabalho</h2>
-                    <img class="imagem-principal" src="../imagens/tecnologia.jpg" alt="">
-                    
+                    <h2>Setor do turismo impulsiona geração de emprego no Brasil</h2>
+                    <img class="imagem-principal" src="../imagens/turismo.png" alt="">
+
                     <div class="texto">
+
                     <p>
-                    Segundo pesquisa, 42,1% dos trabalhadores discordam que o salário atende às necessidades alimentares
-                     básicas. Outros 43% afirmam trabalhar mais horas do que o combinado.
+                    turismo vem impulsionando a geração de emprego no Brasil. Um levantamento feito pela Confederação Nacional do 
+                    Comércio de Bens, Serviços e Turismo (CNC), com base em dados do Cadastro Geral de Empregados e Desempregados 
+                    (Caged), do Governo Federal, aponta que dos 20 municípios que tiveram a maior taxa de expansão do mercado de
+                     trabalho formal nos últimos 20 meses, 10 tem o turismo como uma das atividades econômicas. As outras 10 são 
+                     produtoras de produtos para exportação, principalmente minérios. 
                     </p>
 
                     <p>
-                    Neste Dia do Trabalho, os trabalhadores têm pouco a comemorar e estão bastante insatisfeitos com sua vida 
-                    profissional. Pelo menos é isso que mostra um estudo realizado pelo portal Empregos.com.br em parceria com a
-                     Universidade de Brasília (UnB), que ouviu 257 profissionais de todo o país, e investigou três frentes: salário, horas 
-                     de trabalho e trabalho remoto.
+                    De acordo com a pesquisa, entre junho de 2020 e fevereiro de 2022, a cidade de Porto Seguro, na Bahia, teve
+                     um aumento de 52% na expansão do emprego com 10.019 novas vagas. Vacaria, no Rio Grande do Sul, cresceu 44%,
+                      com 7.164 postos de trabalho. Já Araruama, no Rio de Janeiro, expandiu o emprego em 39%, com 5.019 vagas. O 
+                      ranking das cidades turísticas segue com Ipojuca, em Pernambuco (crescimento de 37% e geração de 7.452 vagas);
+                       Itapema, em Santa Catarina, (35% e 6.521); Gramado, no Rio Grande do Sul (31% e 4.445); Palhoça, em Santa 
+                       Catarina (24% e 9.602); Caldas Novas, em Goiás (24% e 3.922); Balneário Camboriú, em Santa Catarina (24% e
+                        9.493); e Guarapari, no Espírito Santo (23% e 3.567 vagas). Todas essas cidades empregam pelo menos 10 mil
+                         pessoas.
+                    </p>
+                    
+                    <h2>Municípios exportadores</h2>
+
+
+                    <p>
+                    O ranking dos municípios que mais expandiram a taxa de emprego, no período entre junho de 2020 e fevereiro de 
+                    2022, conta também com 10 cidades produtoras das chamadas commodities, que são matérias-primas destinadas à 
+                    exportação, como minérios e produtos agrícolas. Segundo a apuração, Canaã dos Carajás, no Pará, que apresenta
+                     elevado potencial na indústria extrativa mineral, foi o município com maior variação de ocupações no mercado 
+                     de trabalho formal durante o período analisado. A expansão na taxa de emprego foi de 66%, com a geração de 7.370
+                      vagas. Parauapebas, também no Pará, criou 12.067, expansão de 24%. Já Açailândia, no Maranhão, um polo produtor
+                       de ferro-gusa (resultado da absorção do carbono por minério de ferro em altos-fornos), cresceu 27% e gerou
+                        3.149 vagas.
                     </p>
 
                     <p>
-                    Na primeira etapa, os entrevistados foram perguntados se recebem valor igual ou maior ao piso salarial do cargo. 51,8% 
-                    responderam que discordam, ou seja, mais da metade considera que tem remuneração abaixo do piso, e 33,1% concordam.
+                    No setor agrícola, os destaques são os municípios de Pederneiras, em São Paulo, com crescimento de 23% e geração 
+                    de 2.590 postos de trabalho, e Santo Antônio de Jesus, na Bahia, que expandiu 23% e criou 4.152 postos. Esses 
+                    municípios são produtores de açúcar e citricultura (cultivo ou plantação de frutas cítricas).
                     </p>
 
                     <p>
-                    Além disso, 44,7% discordam que o salário é igual aos demais funcionários que desempenham a mesma função, independente do gênero.
+                    De acordo com a CNC, a criação acelerada de postos de trabalho nesses municípios representa uma resposta à 
+                    retomada econômica em 2021, diante de um contexto de obstáculos para a manutenção da estrutura produtiva em 
+                    nível global observada antes do início da Covid-19.
                     </p>
+
 
                     </div>
-
 
                 </div> <!-- Fim caixa Nova Legislação -->
 

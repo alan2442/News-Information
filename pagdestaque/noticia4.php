@@ -56,32 +56,34 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Dia do trabalho</h2>
-                    <img class="imagem-principal" src="../imagens/tecnologia.jpg" alt="">
+                    <h2>Ataque de drone causa incêndio em refinaria de petróleo na Rússia, dizem autoridades</h2>
+                    <img class="imagem-principal" src="../imagens/russia.jpg" alt="">
                     
                     <div class="texto">
                     <p>
-                    Segundo pesquisa, 42,1% dos trabalhadores discordam que o salário atende às necessidades alimentares
-                     básicas. Outros 43% afirmam trabalhar mais horas do que o combinado.
+                    Parte de uma refinaria de petróleo no sul da Rússia está em chamas após ser atingida por um ataque de drone,
+                    informou a agência de notícias Tass, citando serviços de emergência locais, na manhã desta quinta-feira (4),
+                     horário local.
                     </p>
 
                     <p>
-                    Neste Dia do Trabalho, os trabalhadores têm pouco a comemorar e estão bastante insatisfeitos com sua vida 
-                    profissional. Pelo menos é isso que mostra um estudo realizado pelo portal Empregos.com.br em parceria com a
-                     Universidade de Brasília (UnB), que ouviu 257 profissionais de todo o país, e investigou três frentes: salário, horas 
-                     de trabalho e trabalho remoto.
+                    O incidente ocorreu na refinaria Ilsky, perto do porto de Novorossiysk, no Mar Negro. Segundo a agência de 
+                    notícias, um reservatório de combustível entrou em chamas.
                     </p>
 
                     <p>
-                    Na primeira etapa, os entrevistados foram perguntados se recebem valor igual ou maior ao piso salarial do cargo. 51,8% 
-                    responderam que discordam, ou seja, mais da metade considera que tem remuneração abaixo do piso, e 33,1% concordam.
+                    Embora as autoridades russas não tenham acusado a Ucrânia pelo ataque, em outros episódios recentes do tipo a Rússia
+                     apontou os ucranianos como responsáveis. Kiev, no entanto, não costuma assumir a responsabilidade pelo que Moscou diz
+                      serem frequentes ataques de drones contra infraestrutura e alvos militares em regiões próximas ao país.
                     </p>
 
                     <p>
-                    Além disso, 44,7% discordam que o salário é igual aos demais funcionários que desempenham a mesma função, independente do gênero.
+                    Em junho passado, a refinaria de petróleo de Novoshakhtinsk, na região russa de Rostov, na fronteira com a 
+                    Ucrânia, suspendeu as operações depois que dois veículos aéreos não tripulados atacaram suas instalações.
                     </p>
 
                     </div>
+
 
 
                 </div> <!-- Fim caixa Nova Legislação -->

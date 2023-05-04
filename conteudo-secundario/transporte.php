@@ -56,33 +56,59 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Dia do trabalho</h2>
-                    <img class="imagem-principal" src="../imagens/tecnologia.jpg" alt="">
-                    
+                    <h2>Transporte Público</h2>
+                    <img class="imagem-principal" src="../imagens/onibus.jpg" alt="">
+
                     <div class="texto">
+
                     <p>
-                    Segundo pesquisa, 42,1% dos trabalhadores discordam que o salário atende às necessidades alimentares
-                     básicas. Outros 43% afirmam trabalhar mais horas do que o combinado.
+                    O transporte público e coletivo de passageiros é um elemento-chave para garantir o acesso da população às 
+                    oportunidades da cidade, incluindo atividades de lazer, produtivas e equipamentos públicos. Além disso, tem
+                     papel fundamental para desestimular o transporte individual motorizado e contribuir para a redução das emissões
+                      de gases de efeito estufa e poluentes locais, com benefícios diretos para a saúde da população e melhoria 
+                      da qualidade ambiental. Atualmente, um grande desafio é manter o transporte público como foco prioritário de
+                       investimentos frente às discussões sobre o que se considera o “transporte do futuro”  autônomo, elétrico e 
+                       compartilhado. Nesse contexto, as novas tecnologias veiculares devem ser usadas para aprimorar o sistema de 
+                       transporte público e torná-lo mais acessível e mais eficiente do ponto de vista energético.  
                     </p>
 
                     <p>
-                    Neste Dia do Trabalho, os trabalhadores têm pouco a comemorar e estão bastante insatisfeitos com sua vida 
-                    profissional. Pelo menos é isso que mostra um estudo realizado pelo portal Empregos.com.br em parceria com a
-                     Universidade de Brasília (UnB), que ouviu 257 profissionais de todo o país, e investigou três frentes: salário, horas 
-                     de trabalho e trabalho remoto.
+                    O programa de transporte público do ITDP Brasil oferece suporte às cidades e regiões metropolitanas no 
+                    desenvolvimento de redes de transporte público de qualidade e efetivamente integradas entre si e aos modos 
+                    ativos. Ao longo dos últimos anos, o ITDP tem desenvolvido pesquisas e projetos de sistemas de transporte 
+                    público, com ênfase no planejamento de corredores de BRT.
+                    </p>
+                    
+                    <h2>Atividades desenvolvidas:</h2>
+
+
+                    <p>
+                    •Identificação, documentação e disseminação de boas práticas nacionais e internacionais;
+                     </p>
+
+                    <p>
+                    •Organização de atividades de capacitação para o corpo técnico e gestores dos governos municipal, estadual e 
+                    federal responsáveis pelo planejamento, financiamento e gestão dos sistemas de transporte;
                     </p>
 
                     <p>
-                    Na primeira etapa, os entrevistados foram perguntados se recebem valor igual ou maior ao piso salarial do cargo. 51,8% 
-                    responderam que discordam, ou seja, mais da metade considera que tem remuneração abaixo do piso, e 33,1% concordam.
+                    • Articulação com organizações da sociedade civil, iniciativa privada e academia para a qualificação de políticas
+                     de transporte público e coletivo e discussão sobre o uso de novas tecnologias;
                     </p>
 
                     <p>
-                    Além disso, 44,7% discordam que o salário é igual aos demais funcionários que desempenham a mesma função, independente do gênero.
+                    • Apoio técnico para o desenvolvimento de políticas e ações com foco no aprimoramento dos sistemas de transporte
+                     público;
+                    </p>
+
+                    <p>
+                    • Desenvolvimento de pesquisas para aprimoramento da eficácia e apoio ao cumprimento da função social dos
+                     sistemas de transporte público, incluindo avaliações e recomendações para seu planejamento considerando as
+                      particularidades de deslocamento de mulheres, crianças, idosos, pessoas com deficiência ou mobilidade reduzida 
+                      e demais grupos vulneráveis.
                     </p>
 
                     </div>
-
 
                 </div> <!-- Fim caixa Nova Legislação -->
 

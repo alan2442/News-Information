@@ -56,47 +56,70 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Nova Legislação</h2>
-                    <img class="imagem-principal" src="../imagens/mundo.jpg" alt="">
+                    <h2>Como é ser um médico na era digital?</h2>
+                    <img class="imagem-principal" src="../imagens/doutor.jpg" alt="">
 
                     <div class="texto">
                     <p>
-                        Deve ser analisado e votado pelos deputados federais ainda
-                        nesta terça-feira, 2, o PL das Fake News (PL 2630). 
-                        O deputado Orlando Silva, relator do projeto, entregou o relatório
-                        na tarde da última quinta-feira, 27.
+                    Aos 32 anos, o dermatologista Luiz Alberto Bomjardim Pôrto já é parte da geração de especialistas que 
+                    são nativos digitais. Seu envolvimento com a Internet começou muito antes da medicina, se intensificou na
+                     faculdade e, naturalmente, se tornou uma ferramenta de trabalho e de comunicação com os pacientes.
                     </p>
 
                     <p>
-                        Uma das principais mudanças que o texto apresentado por Orlando Silva 
-                        trouxe foi a retirada de um artigo que previa a criação de uma entidade autônoma 
-                        para fiscalizar o cumprimento das novas regras.
+                    Atualmente, Luiz Pôrto vive um novo momento na carreira. Depois de passar por estágios na Dinamarca, Áustria e 
+                    Estados Unidos, concluiu sua residência médica (antes trabalhou também como médico generalista) e atua como
+                     dermatologista em um consultório particular.
                     </p>
 
                     <p>
-                    Apesar de a ideia inicial ser a criação de um órgão autônomo,
-                     a proposta não era bem recebida por parlamentares da direita,
-                      que diziam temer algum tipo de influência do atual governo na regulação 
-                      sobre fake news.
+                    Nesta entrevista, o profissional conta como usa a Internet para complementar seu trabalho, melhorar o contato 
+                    com os pacientes e o acesso às informações sobre a sua especialidade.
+                    </p>
+
+                    <h2>Como começou seu envolvimento com a Internet na área da saúde?</h2>
+
+                    <p>
+                    Eu tenho 32 anos e sempre tive muita afinidade e envolvimento com o ambiente online, desde o ensino médio. 
+                    Na Faculdade de Medicina da UFMG, acabava usando a Internet em todas as minhas atividades extracurriculares e,
+                    inclusive, para complementar a divulgação desses trabalhos. Desde então, criei e mantive o hábito de estar na
+                     web como profissional da saúde.
                     </p>
 
                     <p>
-                    a liberdade religiosa não será afetada pelo projeto. De acordo com esse artigo,
-                     a aplicação da lei deverá observar “o livre exercício da expressão e dos cultos 
-                     religiosos, seja de forma presencial ou remota, e a exposição plena dos seus 
-                     dogmas e livros sagrados”.
+                    Mesmo depois de formado, procuro usar a Internet também como forma de levar mais informação sobre dermatologia 
+                    para o público em geral. Para mim é uma forma de retribuir à sociedade o que eu recebi na universidade pública 
+                    e em órgãos públicos para os quais eu já trabalhei.
+                    </p>
+
+                    <h2>Como sente que a Internet tem ajudado a promover o seu trabalho como dermatologista?</h2>
+
+                    <p>
+                    Estou em uma etapa nova da carreira e atendo a um grupo de pacientes heterogêneo. Nesse sentido, a Internet 
+                    tem ajudado porque me permite ter acesso aos pacientes que não estão próximos às zonas em que atendo. Ela pode
+                     fazer pouca diferença para pacientes que já me conheciam e estavam fidelizados, mas pessoas que nunca tiveram
+                      contato comigo ou com a clínica em que eu atendo, acabam me conhecendo pela Internet. Especialmente estando 
+                      em uma cidade grande como Belo Horizonte, a presença online é importante.
+                    </p>
+
+                    <h2>Você tem uma reputação impecável na Doctoralia. Acredita que as opiniões em seu perfil interferem na sua reputação e 
+                        na percepção dos pacientes que te visitam?
+                    </h2>
+
+                    <p>
+                    Sempre que tenho contato com uma nova ferramenta tecnológica, a uso na plenitude e me dedico 100% para saber se 
+                    ela funciona ou não. Isso não foi diferente como o meu perfil na Doctoralia.
                     </p>
 
                     <p>
-                    A mudança foi feita após pressão da bancada Evangélica, que alegou que o compartilhamento 
-                    de versículos bíblicos nas redes sociais poderia ser enquadrado como crime.
+                    opiniões acabam fazendo parte da minha apresentação profissional, pois são informações que o paciente vê no 
+                    perfil junto com minhas experiências profissionais e o telefone do meu consultório, por exemplo.
                     </p>
 
                     <p>
-                    Conhecido como PL das Fake News, o projeto de lei busca estabelecer normas de transparência para
-                     plataformas de buscas e redes sociais, criando medidas de combate à divulgação de conteúdos falsos. 
-                     A proposta visa criar a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet. Leia a
-                      íntegra do relatório.
+                    Além disso, cada paciente tem uma necessidade quando procura um especialista: existem os que querem a comodidade 
+                    de marcar consulta pela Internet, os que buscam um consultório que esteja próximo de casa e existem muitos que 
+                    têm a necessidade de conhecer a opinião de outros pacientes que já se consultaram com o médico antes.
                     </p>
 
                     </div>

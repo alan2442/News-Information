@@ -56,33 +56,36 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Dia do trabalho</h2>
-                    <img class="imagem-principal" src="../imagens/tecnologia.jpg" alt="">
-                    
+                    <h2>Carne bovina: após susto, Brasil tem situação privilegiada para exportar</h2>
+                    <img class="imagem-principal" src="../imagens/boi.jpg" alt="">
+
                     <div class="texto">
+
                     <p>
-                    Segundo pesquisa, 42,1% dos trabalhadores discordam que o salário atende às necessidades alimentares
-                     básicas. Outros 43% afirmam trabalhar mais horas do que o combinado.
+                    Após 29 dias de suspensão nas exportações de carne bovina brasileira para a China, o maior comprador 
+                    internacional, o susto parece ter passado. O embargo não durou os mais de 100 dias vistos — e temidos — 
+                    em 2021. O mercado já operou aquecido nesta quinta-feira, 23, quando a arroba do boi gordo futuro de março 
+                    na B3 fechou em alta de 2,5%, a R$ 293,65. Mais importante: a retomada de exportações reforça a ideia de que o 
+                    Brasil é, hoje, o país mais bem posicionado no mercado internacional nesse setor. "Na cadeia global de supply 
+                    chain, o brasil tem o melhor posicionamento. Temos preço, volume e qualidade de carne", diz João Figueiredo, 
+                    head de pecuária da consultoria Datagro.
                     </p>
 
                     <p>
-                    Neste Dia do Trabalho, os trabalhadores têm pouco a comemorar e estão bastante insatisfeitos com sua vida 
-                    profissional. Pelo menos é isso que mostra um estudo realizado pelo portal Empregos.com.br em parceria com a
-                     Universidade de Brasília (UnB), que ouviu 257 profissionais de todo o país, e investigou três frentes: salário, horas 
-                     de trabalho e trabalho remoto.
+                    Uma prova é que, no mesmo dia em que o embargo foi levantado, quatro novas plantas foram habilitadas para 
+                    exportar para a China — processo que não ocorria desde 2019. Agora, são 41 unidades habilitadas para esse tipo 
+                    de comércio no país asiático.
                     </p>
 
                     <p>
-                    Na primeira etapa, os entrevistados foram perguntados se recebem valor igual ou maior ao piso salarial do cargo. 51,8% 
-                    responderam que discordam, ou seja, mais da metade considera que tem remuneração abaixo do piso, e 33,1% concordam.
+                    Esse incremento na oferta brasileira na China se soma à abertura de acordos com outros países, como México e 
+                    Indonésia, e permite projetar um bom ano para a exportação de carne brasileira. No México, foi o fim de uma
+                     longa negociação que levou mais de 12 anos. Na Indonésia, onde mais de uma dezena de plantas foi habilitada 
+                     no começo do ano, a cota anual de importações de carne brasileira saltou de 20 mil para 100 mil toneladas.
                     </p>
 
-                    <p>
-                    Além disso, 44,7% discordam que o salário é igual aos demais funcionários que desempenham a mesma função, independente do gênero.
-                    </p>
 
                     </div>
-
 
                 </div> <!-- Fim caixa Nova Legislação -->
 

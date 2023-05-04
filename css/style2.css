@@ -189,9 +189,20 @@ h3 {
     display: inline;
     font-size: 0.8em;
     padding: 5px;
+}
+
+.destaque h3 {
     background: #b10333;
     color: #fff;
 }
+
+.pensao-especial h3 {
+    background: #b10333;
+    color: #fff;
+}
+
+
+
 
 
 
@@ -227,4 +238,32 @@ h3 {
 #lista-noticias li:hover {
     background: #EEE;
     cursor: pointer;
+}
+
+/* Formatação de parágragos */
+
+.texto {
+    background: #fff;
+    padding: 15px;
+}
+
+.texto p {
+    padding-top: 15px;
+}
+
+.texto h2 {
+    margin-top: 15px;
+}
+
+/*Formatando Rodapé */
+
+#container-rodape {
+    background: #294c71;
+    padding: 20px;
+}
+
+#rodape {
+    width: 750px;
+    margin: 0 auto;
+    color: #fff;
 }

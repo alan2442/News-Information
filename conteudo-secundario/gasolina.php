@@ -56,33 +56,35 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Dia do trabalho</h2>
-                    <img class="imagem-principal" src="../imagens/tecnologia.jpg" alt="">
-                    
+                    <h2>Preço da gasolina volta a subir e atinge média de R$ 5,50 por litro no Brasil</h2>
+                    <img class="imagem-principal" src="../imagens/gasolina.jpeg" alt="">
+
                     <div class="texto">
+
                     <p>
-                    Segundo pesquisa, 42,1% dos trabalhadores discordam que o salário atende às necessidades alimentares
-                     básicas. Outros 43% afirmam trabalhar mais horas do que o combinado.
+                    Preço do combustível subiu R$ 0,02 em relação a semana anterior, mas a preocupação maior fica para junho
                     </p>
 
                     <p>
-                    Neste Dia do Trabalho, os trabalhadores têm pouco a comemorar e estão bastante insatisfeitos com sua vida 
-                    profissional. Pelo menos é isso que mostra um estudo realizado pelo portal Empregos.com.br em parceria com a
-                     Universidade de Brasília (UnB), que ouviu 257 profissionais de todo o país, e investigou três frentes: salário, horas 
-                     de trabalho e trabalho remoto.
+                    O preço médio do litro da gasolina chegou a R$ 5,12 na primeira semana de fevereiro e de lá para cá o o valor 
+                    não chegou a menos de R$ 5,00. Mais de dois meses depois, Segundo dados da Agência Nacional do Petróleo, Gás 
+                    Natural e Biocombustíveis (ANP), o preço médio da gasolina durante a semana de 2 a 8 de abril foi de R$ 5,50. 
+                    Alta de R$ 0,02 em relação aos R$ 5,48 da semana de 26 de março a 1 de abril.
                     </p>
 
                     <p>
-                    Na primeira etapa, os entrevistados foram perguntados se recebem valor igual ou maior ao piso salarial do cargo. 51,8% 
-                    responderam que discordam, ou seja, mais da metade considera que tem remuneração abaixo do piso, e 33,1% concordam.
+                    A gasolina vinha apresentando queda de preço nas últimas três semanas e voltou a subir. O valor do etanol também 
+                    apresentou queda neste período inclusive na semana passada , como mostra a tabela abaixo.
                     </p>
 
                     <p>
-                    Além disso, 44,7% discordam que o salário é igual aos demais funcionários que desempenham a mesma função, independente do gênero.
+                    Vale sempre lembrar que desde o dia 1º de março, os impostos federais sobre combustíveis voltaram a ser cobrados
+                     depois de um ano zerados. Segundo Fernando Haddad, ministro da Fazenda, a reoneração foi parcial: de R$ 0,47
+                      para a gasolina e de R$ 0,02 para o etanol.
                     </p>
+
 
                     </div>
-
 
                 </div> <!-- Fim caixa Nova Legislação -->
 

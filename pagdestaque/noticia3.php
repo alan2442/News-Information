@@ -56,32 +56,33 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Dia do trabalho</h2>
-                    <img class="imagem-principal" src="../imagens/tecnologia.jpg" alt="">
+                    <h2>PIB do Brasil avança 2,9% em 2022, mesmo com 4º trimestre de queda</h2>
+                    <img class="imagem-principal" src="../imagens/cristo.jpeg" alt="">
                     
                     <div class="texto">
                     <p>
-                    Segundo pesquisa, 42,1% dos trabalhadores discordam que o salário atende às necessidades alimentares
-                     básicas. Outros 43% afirmam trabalhar mais horas do que o combinado.
+                    O Produto Interno Bruto (PIB) do Brasil cresceu 2,9% no ano de 2022, divulgou nesta quinta-feira 
+                    (2) o Instituto Brasileiro de Geografia e Estatística (IBGE)
                     </p>
 
                     <p>
-                    Neste Dia do Trabalho, os trabalhadores têm pouco a comemorar e estão bastante insatisfeitos com sua vida 
-                    profissional. Pelo menos é isso que mostra um estudo realizado pelo portal Empregos.com.br em parceria com a
-                     Universidade de Brasília (UnB), que ouviu 257 profissionais de todo o país, e investigou três frentes: salário, horas 
-                     de trabalho e trabalho remoto.
+                    A atividade teve grande impulso do setor de serviços, o principal da economia brasileira, que acelerou
+                     principalmente no primeiro semestre. Estímulos fiscais dados à economia impulsionaram os números, junto
+                      com o chamado “efeito reabertura”, em que o retorno a bares, restaurantes, salões de beleza, turismo e outras
+                       atividades provocou um aumento expressivo do consumo.
                     </p>
 
                     <p>
-                    Na primeira etapa, os entrevistados foram perguntados se recebem valor igual ou maior ao piso salarial do cargo. 51,8% 
-                    responderam que discordam, ou seja, mais da metade considera que tem remuneração abaixo do piso, e 33,1% concordam.
+                    No segundo semestre, porém, os dois fenômenos perderam força e causaram uma desaceleração gradual da economia.
                     </p>
 
                     <p>
-                    Além disso, 44,7% discordam que o salário é igual aos demais funcionários que desempenham a mesma função, independente do gênero.
+                    Resultado foi uma queda de 0,2% no 4º trimestre do ano, interrompendo uma sequência de cinco trimestres positivos.
+                     Ainda assim, em relação ao 4º trimestre de 2021, a atividade teve um avanço de 1,9% em 2022.
                     </p>
 
                     </div>
+
 
 
                 </div> <!-- Fim caixa Nova Legislação -->
