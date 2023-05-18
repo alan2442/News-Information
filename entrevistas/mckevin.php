@@ -56,70 +56,78 @@
                 
                 <div class="caixa"> <!-- Início caixa Nova Legislação-->
 
-                    <h2>Como é ser um médico na era digital?</h2>
-                    <img class="imagem-principal" src="../imagens/doutor.jpg" alt="">
+                    <h2>Entrevista com MC Kevin</h2>
+                    <img class="imagem-principal" src="../imagens/mckevin.jpg" alt="">
 
                     <div class="texto">
                     <p>
-                    Aos 32 anos, o dermatologista Luiz Alberto Bomjardim Pôrto já é parte da geração de especialistas que 
-                    são nativos digitais. Seu envolvimento com a Internet começou muito antes da medicina, se intensificou na
-                     faculdade e, naturalmente, se tornou uma ferramenta de trabalho e de comunicação com os pacientes.
+                    Cinco dias antes de sua morte, MC Kevin concedeu sua última entrevista à apresentadora Lais Moreira, do programa 
+                    "Lá em casa", no canal de YouTube dela. O começo da conversa foi ao ar na noite da última quarta-feira. Já a 
+                    outra parte do material foi ao ar nesta quinta-feira. Neste novo trecho, o cantor fala dos seus planos para a
+                     família.
                     </p>
 
                     <p>
-                    Atualmente, Luiz Pôrto vive um novo momento na carreira. Depois de passar por estágios na Dinamarca, Áustria e 
-                    Estados Unidos, concluiu sua residência médica (antes trabalhou também como médico generalista) e atua como
-                     dermatologista em um consultório particular.
+                    "Quero ter mais um filho e quero adotar ainda um neguinho na África", contou ele, que deixou uma filha, Soraya, de 6 anos.
                     </p>
 
                     <p>
-                    Nesta entrevista, o profissional conta como usa a Internet para complementar seu trabalho, melhorar o contato 
-                    com os pacientes e o acesso às informações sobre a sua especialidade.
-                    </p>
-
-                    <h2>Como começou seu envolvimento com a Internet na área da saúde?</h2>
-
-                    <p>
-                    Eu tenho 32 anos e sempre tive muita afinidade e envolvimento com o ambiente online, desde o ensino médio. 
-                    Na Faculdade de Medicina da UFMG, acabava usando a Internet em todas as minhas atividades extracurriculares e,
-                    inclusive, para complementar a divulgação desses trabalhos. Desde então, criei e mantive o hábito de estar na
-                     web como profissional da saúde.
+                    Na segunda parte do material, MC Kevin afirma ainda que sua mulher, a advogada Deolane Bezerra, e sua mãe, 
+                    Valquíria, eram os seus anjos da guarda. Ele também comparou a sua vida ao jogo "GTA", em que os personagens
+                     passam por diversos perigos, morrem e voltam a viver.
                     </p>
 
                     <p>
-                    Mesmo depois de formado, procuro usar a Internet também como forma de levar mais informação sobre dermatologia 
-                    para o público em geral. Para mim é uma forma de retribuir à sociedade o que eu recebi na universidade pública 
-                    e em órgãos públicos para os quais eu já trabalhei.
-                    </p>
-
-                    <h2>Como sente que a Internet tem ajudado a promover o seu trabalho como dermatologista?</h2>
-
-                    <p>
-                    Estou em uma etapa nova da carreira e atendo a um grupo de pacientes heterogêneo. Nesse sentido, a Internet 
-                    tem ajudado porque me permite ter acesso aos pacientes que não estão próximos às zonas em que atendo. Ela pode
-                     fazer pouca diferença para pacientes que já me conheciam e estavam fidelizados, mas pessoas que nunca tiveram
-                      contato comigo ou com a clínica em que eu atendo, acabam me conhecendo pela Internet. Especialmente estando 
-                      em uma cidade grande como Belo Horizonte, a presença online é importante.
-                    </p>
-
-                    <h2>Você tem uma reputação impecável na Doctoralia. Acredita que as opiniões em seu perfil interferem na sua reputação e 
-                        na percepção dos pacientes que te visitam?
-                    </h2>
-
-                    <p>
-                    Sempre que tenho contato com uma nova ferramenta tecnológica, a uso na plenitude e me dedico 100% para saber se 
-                    ela funciona ou não. Isso não foi diferente como o meu perfil na Doctoralia.
+                    O convite de Lais para Kevin participar do seu programa foi feito por acaso. Ela o havia conhecido em um voo do
+                     Rio para Congonhas, São Paulo, na semana anterior. O cantor ajudou a amiga dela a carregar uma bolsa. Então,
+                      eles começaram a conversar, o artista disse que já conhecia o canal dela e se colocou a disposição para 
+                      ajudá-la em sua carreira.
                     </p>
 
                     <p>
-                    opiniões acabam fazendo parte da minha apresentação profissional, pois são informações que o paciente vê no 
-                    perfil junto com minhas experiências profissionais e o telefone do meu consultório, por exemplo.
+                    — O que mais me chamou a atenção nele foi a generosidade com tudo. Eu tenho o meu canal há sete meses. Uma coisa 
+                    que ele falou, no avião, foi que ele conheceu a Bianca Andrade, a Boca Rosa, e a GKay, que elas estavam começando
+                     e que ele tinha dito que elas iam estourar. Depois falou que tinha certeza de que ia acontecer comigo também.
+                      Ele disse: "Você vai ser um sucesso. Vou te ajudar muito". Ele tinha essa generosidade de apoiar o sonho das
+                       pessoas — conta Lais Moreira, que disse ainda que ele queria dar apoio ajudando com convidados para o seu canal.
                     </p>
 
                     <p>
-                    Além disso, cada paciente tem uma necessidade quando procura um especialista: existem os que querem a comodidade 
-                    de marcar consulta pela Internet, os que buscam um consultório que esteja próximo de casa e existem muitos que 
-                    têm a necessidade de conhecer a opinião de outros pacientes que já se consultaram com o médico antes.
+                    A apresentadora lembra que ela e MC Kevin já estavam criando uma amizade e que ele estava muito animado com os seus projetos.
+                    </p>
+
+                    <p>
+                    — O assessor do Kevin pediu alguns trechos da entrevista. Principalmente quando cita a noiva. Acho que ele até
+                     queria entregar para ela, mostrar como só falava bem dela. Quando me reuni com minha equipe, a única coisa que
+                      disse foi que não queria me promover com uma fatalidade dessas. Quero que esse material chegue nas pessoas como
+                       uma forma de homenagem e que vejam um lado 100% positivo dele. Empresário, pai, artista, noivo, filho, 
+                       apaixonado. Tudo isso — pontua Lais.
+                    </p>
+
+                    <p>
+                    A youtuber conta que, no dia em que conheceu Kevin, precisou mudar seu voo. Ela vê toda a situação como uma obra do acaso.
+                    </p>
+
+                    <p>
+                    — Ele disse que acredita muito no destino, que não era para eu estar naquele voo, inicialmente. Então acho que 
+                    era para isso acontecer e ser uma entrevista totalmente positiva — conclui ela.
+                    </p>
+
+                    <h2>Familia</h2>
+
+                    <p>
+                    Na entrevista, o cantor contou que até tentou morar sozinho, mas que gostava mesmo era de estar com a família. 
+                    Ele tem seis irmãos e vivia na mesma casa que quatro deles.
+                    </p>
+
+                    <p>
+                    "Minha maior conquista é ver minha família bem e unida".
+                    </p>
+
+                    <p>
+                    Sobre futuros trabalhos, o MC afirmou que tinha mais de 100 músicas prontas para serem lançadas. Na sexta-feira, 
+                    o álbum "Passado e presente", com 10 músicas estará disponível. Recentemente, o artista abriu sua própria 
+                    produtora, aRevolução Record.
                     </p>
 
                     </div>

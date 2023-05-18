@@ -2,7 +2,7 @@
 
 <div id="primario"> <!-- Início Conteudo Primário-->
     
-    <div class="caixa"> <!-- Início Caixa Destaque-->
+    <div class="caixa"> <!-- Início Caixa Ciencia-->
 
 
         <h2>Pesquisa da PUC-Campinas comprova eficácia de laser para recuperação do paladar de pacientes com sequelas da Covid</h2>
@@ -129,7 +129,7 @@
         </div> <!-- Fim noticia Wi-fi para monitorar a saúde-->
 
 
-    </div> <!-- Fim caixa Destaque-->
+    </div> <!-- Fim caixa Ciencia-->
 
 
 

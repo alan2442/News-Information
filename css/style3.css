@@ -267,3 +267,34 @@ h3 {
     margin: 0 auto;
     color: #fff;
 }
+
+/*Formatação tabelas */
+
+.tabela tr {
+    width: 100%;
+}
+
+table.tabela {
+    margin: 15px 0 15px 0;
+}
+
+table.tabela th:hover, table.tabela td:hover {
+    background: #294c71;
+}
+
+.tabela th {
+    border: 2px solid black;
+    text-transform: uppercase;
+}
+
+.tabela td {
+    border: 2px solid rgb(217, 217, 217);
+}
+
+.tabela th, td {
+    padding: 5px;
+    background: #eaf5ff; 
+}
+
+
+

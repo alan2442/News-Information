@@ -177,11 +177,11 @@
             <li><a href="">José Almeida</a></li>
             <li><a href="">Felipe Costa</a></li>
             <li><a href="">Humberto de Alencar</a></li>
-            <li><a href="">Maria das Neves</a></li>
-            <li><a href="">Anderson Gomes</a></li>
-            <li><a href="">Marta Ribeiro</a></li>
-            <li><a href="">Airton Senna</a></li>
-            <li><a href="">Tim Maia</a></li>
+            <li><a href="entrevistas/ronaldinho.php">Ronaldinho</a></li>
+            <li><a href="entrevistas/ronaldo.php">Ronaldo Fenômeno</a></li>
+            <li><a href="entrevistas/mckevin.php">MC Kevin</a></li>
+            <li><a href="entrevistas/Airton-Senna.php">Airton Senna</a></li>
+            <li><a href="entrevistas/Tim-Maia.php">Tim Maia</a></li>
         </ul>
     </div> <!-- Fim caixa-->
 

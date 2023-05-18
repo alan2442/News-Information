@@ -54,52 +54,64 @@
 
             <div id="primario"> <!-- Início Conteudo Primário-->
                 
-                <div class="caixa"> <!-- Início caixa Nova Legislação-->
+                <div class="caixa"> <!-- Início caixa Entrevista com Ronaldinho -->
 
-                    <h2>EUA e Brasil assinam Acordo de Reconhecimento Mútuo</h2>
-                    <img class="imagem-principal" src="../imagens/taxi.jpg" alt="">
-                    
+                    <h2>Entrevista com Ronaldinho</h2>
+                    <img class="imagem-principal" src="../imagens/ronaldinho.jpeg" alt="">
+
                     <div class="texto">
                     <p>
-                    Brasília, 16 de setembro de 2022: A Alfândega e Proteção de Fronteiras dos Estados Unidos (CBP) e a Receita
-                     Federal assinaram, nesta sexta-feira (16), um Acordo de Reconhecimento Mútuo (ARM) de Operador Econômico Autorizado 
-                     (OEA). Esse ARM se baseia em outros acordos entre o CBP e o governo brasileiro e alinha a segurança das cadeias de
-                      abastecimento de cada nação, bem como os esforços no combate às infrações alfandegárias e comerciais.
+                    Documentário detalha auge no Barcelona até ida para o Milan, num retrato do gênio de personalidade enigmática
+                     relatada em família: "Fala menos das suas emoções, expõe menos o que sente"
                     </p>
 
                     <p>
-                    “Os setores privados robustos e inovadores dos Estados Unidos e do Brasil posicionam substancialmente o acesso de seus 
-                    potentes mercados. Estabelecemos um novo recorde de comércio bilateral no ano passado e estamos no caminho certo para quebrar 
-                    esse recorde novamente este ano. Um componente único de nosso comércio é o alto nível de bens e serviços de valor agregado que 
-                    compõem a maioria das exportações brasileiras, apoiando milhares de empregos bem remunerados no mercado brasileiro, bem como nos 
-                    EUA. Este novo acordo ajudará a acelerar essa trajetória comercial ascendente, ao mesmo tempo em que criará novas oportunidades
-                     para melhorar a segurança conjunta”, afirmou o encarregado de Negócios da Embaixada e Consulados dos EUA no Brasil, Douglas Koneff.
+                    Ao lado do irmão Assis, Ronaldinho fica com os olhos marejados, engole seco e passa a língua ao redor da boca 
+                    algumas vezes. Roberto (nome do irmão mais velho, empresário e protetor) conta de maneira poucas vezes vista 
+                    como o pai João morreu depois de parada cardíaca na piscina de casa.
                     </p>
 
                     <p>
-                    “Com uma ampla missão que inclui a segurança nas fronteiras, bem como facilitar o comércio e as viagens legais, 
-                    o CBP tem plena consciência da importância de engajar com parceiros internacionais, como fizemos hoje com nossos
-                     parceiros no Brasil”, disse Troy Miller, comissário adjunto do CBP.
+                    Assis, como ficou conhecido no futebol o canhoto que se profissionaliou aos 16 anos no Grêmio, relata que houve
+                     duas quedas de energia durante atendimento ao pai no hospital em Porto Alegre. Na segunda, João, um gremista 
+                     fanático, não resistiu.
+                    </p>
+
+                    <h2>- Quem sou eu para julgar os caminhos de Deus?</h2>
+
+                    <p>
+                    A frase é de Assis, mas a câmera não sai do rosto do irmão. Foca um Ronaldo angustiado. Com semblante de choro, 
+                    antes ele respondeu aos documentaristas do "O homem mais feliz do mundo" - atração lançada pela Fifa+ nesta 
+                    semana - que era muito novo e não entendeu muito bem na época sobre a morte do pai. Era pequeno, não quis ir no
+                     enterro.
                     </p>
 
                     <p>
-                    O governo do Brasil, o escritório de Assuntos Internacionais do CBP (INA) e o escritório de Operações de Campo 
-                    assinaram, pela primeira vez, um Acordo de Assistência Mútua Alfandegária em 2002 como um passo inicial para 
-                    melhorar a cooperação, o comércio e a segurança em áreas de responsabilidade compartilhada. Em 2005, o CBP e o 
-                    Brasil lançaram a Iniciativa de Segurança de Contêineres, que identifica os contêineres de alto risco, 
-                    pré-seleciona e avalia os contêineres antes de serem despachados, e usa tecnologia para pré-selecionar 
-                    rapidamente os contêineres de alto risco para não retardar o movimento do comércio. Em 2014, o CBP começou 
-                    a trabalhar com o Brasil em um programa de segurança da cadeia de abastecimento OEA, e em 2015 assinou um plano
-                     de trabalho conjunto para fortalecer a parceria comercial segura. A assinatura desse último ARM é o próximo 
-                     passo para assegurar a compatibilidade entre os programas de comércio e segurança de cada nação enquanto se 
-                        avança para a próxima fase de trabalho conjunto.
+                    - Quando estou com a bola, o mundo para - divaga Ronaldinho, cenas depois dos irmãos contarem como ele reagiu e
+                     mudou de comportamento no colégio e em casa depois da morte do pai.
+                    </p>
+
+                    <p>
+                    Num retrato pouco visto do gênio que fez parte da torcida do Real Madrid o aplaudir dentro do Santiago Bernabeu, 
+                    depois do segundo gol, nos 3 a 0 na temporada de 2005, Ronaldinho inicia e termina o documentário contando que 
+                    tem saudade. Dos estádios cheios, dos amigos que se foram e, claro, do pai - a mãe ainda não havia falecido 
+                    quando o documentário foi gravado, inclusive com outros depoimentos bem marcantes da dona Miguelina. Ela morreu 
+                    em fevereiro do ano passado.
+                    </p>
+
+                    <p>
+                    A irmã de Ronaldinho entende que ele repete de certa forma o jeito de dona Miguelina, que falava
+                     "menos de emoções, se expunha menos".
+                    </p>
+
+                    <p>
+                    - Vai estar sorrindo, mas quem conhece vai ver que não está (bem) - refletiu sobre o irmão depois da queda na
+                    Copa do Mundo de 2006, marco na carreira brilhante do craque imortalizado com a inicial e a camisa 10 (R10).
                     </p>
 
                     </div>
 
-
-
-                </div> <!-- Fim caixa Nova Legislação -->
+                </div> <!-- Fim caixa Entrevista com Ronaldinho -->
 
 
             </div> <!-- Fim Conteudo Primário-->
