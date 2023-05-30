@@ -174,9 +174,9 @@
 
         <h2>Entrevista</h2>
         <ul>
-            <li><a href="">José Almeida</a></li>
-            <li><a href="">Felipe Costa</a></li>
-            <li><a href="">Humberto de Alencar</a></li>
+            <li><a href="entrevistas/cr7.php">Cristiano Ronaldo</a></li>
+            <li><a href="entrevistas/rivaldo.php">Rivaldo</a></li>
+            <li><a href="entrevistas/mchariel.php">Mc Hariel</a></li>
             <li><a href="entrevistas/ronaldinho.php">Ronaldinho</a></li>
             <li><a href="entrevistas/ronaldo.php">Ronaldo Fenômeno</a></li>
             <li><a href="entrevistas/mckevin.php">MC Kevin</a></li>
